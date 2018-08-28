@@ -1,3 +1,5 @@
+### This is a fork of [Joseph Nelson](https://generalassemb.ly/instructors/joseph-nelson/9762)'s [Python for Data Science material.](https://github.com/josephofiowa/GA-DSI/tree/master/python-for-data-science)
+
 ---
 title: Pandas Workshop
 duration: 
